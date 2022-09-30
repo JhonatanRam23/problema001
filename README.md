@@ -1,0 +1,2 @@
+# problema001
+problemasumaypromedio
